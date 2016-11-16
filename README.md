@@ -1,5 +1,5 @@
 # var_dump
-Python3で、PHPのvar_dump()みたい事をやりたい
+Python3で、PHPのvar_dump()に近い事をやりたい
 
 ```
 # foo.py
