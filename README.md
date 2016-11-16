@@ -2,6 +2,7 @@
 Python3で、PHPのvar_dump()みたい事をやりたい
 
 ```
+# foo.py
 import vd;
 
 list = ['yoshida', 42]
