@@ -9,7 +9,7 @@ vd.var_dump(list)
 ```
 
 ```
-$ python test.py
+$ python foo.py
 [list(2)]:
     (str) yoshida
     (int) 42
