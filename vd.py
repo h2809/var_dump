@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+
+from __future__ import print_function
+
 def var_dump(var, prefix=''):
     if type(var) in (int, float, str, complex):
         print(prefix, '(', var.__class__.__name__, ') ', var, sep='')
